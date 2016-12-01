@@ -1,0 +1,6 @@
+upload-dir
+*.iml
+.idea
+build
+/.gradle/
+/bin/
